@@ -12,7 +12,7 @@ Den ersattes med en ny Raspberry Pi 5.
 
 Raspberry Pi 5 används med ett SDG3-kort (här finns koden för programmet) och ett MicroSD-kort. 
  
-Kod för programmet hittas i: “/media/upptechsolar/root/home/pi/web/public/”. 
+Kod för programmet hittas i Pi:n i filsökvägen: “/media/upptechsolar/root/home/pi/web/public/”. 
  
 ### Inloggningsuppgifter: 
 
